@@ -9,7 +9,9 @@ Collaborating within teams to address real-world challenges is a passion of mine
 
 Skills: MongoDB / Express / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+- 🔭 I’m currently working on University projects. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub, Linkin, Twitter 
 - 🤔 I’m looking for help with Web Engineering and development 
