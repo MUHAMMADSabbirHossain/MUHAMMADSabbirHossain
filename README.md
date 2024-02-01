@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsabbirhossain&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsabbirhossain" /> </p>
 
+Engaging in collaborative projects is a genuine joy for me as I pursue my studies in web development.
+Collaborating within teams to address real-world challenges is a passion of mine as I navigate the realm of web development. Currently enrolled as a dedicated student in the field, I am honing my skills in full-stack web development, specifically within the MERN stack. My commitment extends beyond personal growth; I am fervently dedicated to both learning and disseminating knowledge openly. I believe in the power of humility, choosing simple yet professional words in interactions, and fostering an environment where ideas can be shared and explored. Some of the technologies that captivate my interest and drive include JavaScript, ReactJS, Express, and MongoDB
+
+Skills: MongoDB / Express / REACT / JS / HTML / CSS
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsabbirhossain" alt="muhammadsabbirhossain" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muhammadsabbir_" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadsabbir_?logo=twitter&style=for-the-badge" alt="muhammadsabbir_" /></a> </p>
